@@ -31,5 +31,5 @@ academic performance, skills, internships, and placement results.
 - Jupyter Notebook
 
 ## Project Status
-🚧 Work in progress
+🚧 Work in progress...
 
